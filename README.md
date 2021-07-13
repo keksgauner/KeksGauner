@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Minecraft Plugins](https://github.com/cookieleaks)
 
-- 💬 Ask me about **Java, Javascript, C# and C++**
+- 💬 Ask me about **Java, Javascript, HTML, PHP, C# and C++**
 
 - 📫 How to reach me **darklupo5.2003@gmail.com**
 
