@@ -8,3 +8,5 @@
 - 📫 How to reach me **darklupo5.2003@gmail.com**
 
 - ⚡ **I like cookies**
+
+- Discord: KeksGauner#0624
