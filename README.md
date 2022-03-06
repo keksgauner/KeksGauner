@@ -10,3 +10,5 @@
 - ⚡ **I like cookies**
 
 - Discord: KeksGauner#0624
+
+- DevOps of [CookieLeaks](https://github.com/cookieleaks)
