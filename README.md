@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KeksGauner</h1>
-<h3 align="center">A MOTIVATED WOULD-BE EXPERT</h3>
+<h3 align="center">A MOTIVATED WOULD-BE EXPERT FROM GERMANY</h3>
 
 - 🔭 I’m currently working on [Chat-Web](https://github.com/keksgauner/PHP-Chat-Web)
 
