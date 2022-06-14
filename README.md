@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Chat-Web](https://github.com/keksgauner/PHP-Chat-Web)
 
-- 💬 Ask me about **Algorithmen**
+- 💬 Ask me about **algorithms**
 
 - 📫 How to reach me **keksgauner@gmail.com**
 
