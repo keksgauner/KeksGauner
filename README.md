@@ -15,15 +15,15 @@
 
 <div align="center">
 <h3>Short info about me</h3>
-<p align="left">🌍 I'm based in Germany</p>
-<p align="left">🖥️  See my portfolio at <a href="https://www.tollerserver.de" target="_blank">my webseite</a></p>
-<p align="left">💬 Ask me about <b>Algorithmen</b></p>
-<p align="left">📫 How to reach me <b><a href="mailto:keksgauner@gmail.com" target="_blank">keksgauner@gmail.com</a></b></p>
+<p>🌍 I'm based in Germany</p>
+<p>🖥️ See my portfolio at <a href="https://www.tollerserver.de" target="_blank">my webseite</a></p>
+<p>💬 Ask me about <b>Algorithmen</b></p>
+<p>📫 How to reach me <b><a href="mailto:keksgauner@gmail.com" target="_blank">keksgauner@gmail.com</a></b></p>
 
 <h3>Organizations (Where I am)</h3>
-<a align="left" href="/https://github.com/CookieLeaks" target="blank">CookieLeaks</p>
-<a align="left" href="/https://github.com/Kleckzz" target="blank">Kleckzz</p>
-<a align="left" href="/https://github.com/MyDark-me" target="blank">MyDark.me</p>
+<a href="/https://github.com/CookieLeaks" target="blank">CookieLeaks</p>
+<a href="/https://github.com/Kleckzz" target="blank">Kleckzz</p>
+<a href="/https://github.com/MyDark-me" target="blank">MyDark.me</p>
 </div>
   
 <div align="center">
