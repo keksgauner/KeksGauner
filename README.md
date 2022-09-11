@@ -20,6 +20,8 @@
 <p>💬 Ask me about <b>Algorithmen</b></p>
 <p>📫 How to reach me <b><a href="mailto:keksgauner@gmail.com" target="_blank">keksgauner@gmail.com</a></b></p>
 
+<hr align="center" width="50%">
+
 <h3>Organizations (Where I am)</h3>
 <a href="/https://github.com/CookieLeaks" target="blank">CookieLeaks</p>
 <a href="/https://github.com/Kleckzz" target="blank">Kleckzz</p>
