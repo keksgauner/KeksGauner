@@ -18,7 +18,7 @@
 <p>🌍 I'm based in Germany</p>
 <p>🖥️  See my portfolio at <a href="https://www.tollerserver.de" target="_blank">my webseite</a></p>
 <p>💬 Ask me about <b>Algorithmen</b></p>
-<p>📫 How to reach me <b>keksgauner@gmail.com</b></p>
+<p>📫 How to reach me <b><a href="mailto:keksgauner@gmail.com" target="_blank">keksgauner@gmail.com</a></b></p>
 
 <h3>Organizations (Where I am)</h3>
 <a href="/https://github.com/CookieLeaks" target="blank">CookieLeaks</p>
