@@ -11,8 +11,8 @@
 
 ###
 <div align="center">
-<p>💬 Ask me about **Algorithmen**</p>
-<p>📫 How to reach me **keksgauner@gmail.com**</p>
+<p>💬 Ask me about <b>Algorithmen</b></p>
+<p>📫 How to reach me <b>keksgauner@gmail.com</b></p>
 
 <h3>Organizations (Where I am)</h3>
 <a href="/https://github.com/CookieLeaks" target="blank">CookieLeaks</p>
