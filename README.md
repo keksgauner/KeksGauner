@@ -51,7 +51,7 @@
 </div>
 
   
-<img href="https://raw.githubusercontent.com/keksgauner/KeksGauner/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/keksgauner/KeksGauner/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
 <hr align="center" width="50%">
