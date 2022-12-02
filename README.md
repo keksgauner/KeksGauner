@@ -19,16 +19,6 @@
 <p>🖥️ See my portfolio at <a href="https://www.tollerserver.de" target="_blank">my webseite</a></p>
 <p>💬 Ask me about <b>Algorithmen</b></p>
 <p>📫 How to reach me <b><a href="mailto:keksgauner@gmail.com" target="_blank">keksgauner@gmail.com</a></b></p>
-
-<hr align="center" width="50%">
-
-<h3>Teams (Where I am)</h3>
-<a href="https://github.com/CookieLeaks" target="blank">1. CookieLeaks</p>
-<a href="https://github.com/Kleckzz" target="blank">2. Kleckzz</p>
-<a href="https://github.com/MyDark-me" target="blank">3. MyDark.me</p>
-<a href="https://github.com/Askeku" target="blank">4. Askeku</p>
-<a href="https://github.com/EnderNationTeam" target="blank">5. EnderNationTeam</p>
-</div>
   
 <div align="center">
 <hr align="center" width="50%">
