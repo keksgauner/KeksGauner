@@ -15,14 +15,12 @@
 </div>
 
 <div align="center">
-  
-  <div align="left" style="margin: 10px auto 10px auto">
-    <h3>Short info about me</h3>
-    <p>🌍 I'm located in Germany</p>
-    <p>🖥️ See my portfolio at <a href="https://www.tollerserver.de" target="_blank">my webseite</a> (offline)</p>
-    <p>💬 Ask me about <b>Algorithmen</b></p>
-    <p>📫 How to reach me <b><a href="mailto:keksgauner@gmail.com" target="_blank">keksgauner@gmail.com</a></b></p>
-  </div>
+  <h3>Short info about me</h3>
+  <p>🌍 I'm located in Germany</p>
+  <p>🖥️ See my portfolio at <a href="https://www.tollerserver.de" target="_blank">my webseite</a> (offline)</p>
+  <p>💬 Ask me about <b>Algorithmen</b></p>
+  <p>📫 How to reach me <b><a href="mailto:keksgauner@gmail.com" target="_blank">keksgauner@gmail.com</a></b></p>
+
   
 <div align="center">
 <hr align="center" width="50%">
