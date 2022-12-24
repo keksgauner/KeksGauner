@@ -1,3 +1,4 @@
+<h1 style="color:red">Be aware projects of mine are no longer supported and will gradually disappear</h1>
 <h1 align="center">Hi 👋, I'm KeksGauner</h1>
 <h3 align="center">A MOTIVATED WOULD-BE EXPERT FROM GERMANY</h3>
 
@@ -14,11 +15,14 @@
 </div>
 
 <div align="center">
-<h3>Short info about me</h3>
-<p>🌍 I'm located in Germany</p>
-<p>🖥️ See my portfolio at <a href="https://www.tollerserver.de" target="_blank">my webseite</a></p>
-<p>💬 Ask me about <b>Algorithmen</b></p>
-<p>📫 How to reach me <b><a href="mailto:keksgauner@gmail.com" target="_blank">keksgauner@gmail.com</a></b></p>
+  
+  <div align="left" style="margin: 10px auto 10px auto">
+    <h3>Short info about me</h3>
+    <p>🌍 I'm located in Germany</p>
+    <p>🖥️ See my portfolio at <a href="https://www.tollerserver.de" target="_blank">my webseite</a> (offline)</p>
+    <p>💬 Ask me about <b>Algorithmen</b></p>
+    <p>📫 How to reach me <b><a href="mailto:keksgauner@gmail.com" target="_blank">keksgauner@gmail.com</a></b></p>
+  </div>
   
 <div align="center">
 <hr align="center" width="50%">
