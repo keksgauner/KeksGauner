@@ -1,4 +1,4 @@
-<h1 style="color:red">Be aware projects of mine are no longer supported and will gradually disappear</h1>
+<h1 color="red">Be aware projects of mine are no longer supported and will gradually disappear. There are already more than 50 projects</h1>
 <h1 align="center">Hi 👋, I'm KeksGauner</h1>
 <h3 align="center">A MOTIVATED WOULD-BE EXPERT FROM GERMANY</h3>
 
