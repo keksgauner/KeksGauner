@@ -1,10 +1,11 @@
-<h1 color="red">Be aware projects of mine are no longer supported and will gradually disappear. There are already more than 50 projects</h1>
+<h1 style="color:red">Be aware projects of mine are no longer supported and will gradually disappear. There are already more than 50 projects</h1>
 <h1 align="center">Hi 👋, I'm KeksGauner</h1>
 <h3 align="center">A MOTIVATED WOULD-BE EXPERT FROM GERMANY</h3>
 
 ###
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=keksgauner&label=Profile%20views&color=0eb410&style=flat" alt="keksgauner" /> </br>
   <img height="200" src="https://raw.githubusercontent.com/keksgauner/KeksGauner/master/anime-study.gif"  />
 </div>
 
