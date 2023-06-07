@@ -4,7 +4,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="box-shadow: 9px 12px 5px 0px rgba(0,0,0,0.75)">
   <img height="200" src="https://raw.githubusercontent.com/keksgauner/KeksGauner/master/anime-study.gif"  />
 </div>
 
