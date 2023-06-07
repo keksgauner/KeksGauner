@@ -30,7 +30,7 @@
 <h3 align="center">🌐 Socials</h3>
 <p align="center">
 <a href="https://stackoverflow.com/users/18111654/keksgauner" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-<a href="/https://www.youtube.com/channel/ucxaq3fs2rqtokw5rmmcgczg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucxaq3fs2rqtokw5rmmcgczg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/ucxaq3fs2rqtokw5rmmcgczg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucxaq3fs2rqtokw5rmmcgczg" height="30" width="40" /></a>
 <a href="https://discord.kleckzz.de" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord Server" height="30" width="40" /></a>
 </p>
   
