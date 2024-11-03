@@ -8,7 +8,7 @@
   <img height="200" src="https://raw.githubusercontent.com/keksgauner/KeksGauner/master/anime-study.gif"  />
 </div>
 
-<h4 align="center"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KeksGauner#0624" height="30" width="40" />KeksGauner#0624<h4>
+<h4 align="center"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KeksGauner" height="30" width="40" />KeksGauner<h4>
 
 <div align="center">
 <hr align="center" width="50%">
